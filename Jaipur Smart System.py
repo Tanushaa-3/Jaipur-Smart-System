@@ -23,8 +23,8 @@ warnings.filterwarnings('ignore')
 class JaipurSmartSystem:
     def __init__(self):
         self.ist = pytz.timezone("Asia/Kolkata")
-        self.weather_api_key = "169fcce991bed1970d27eb53aeac8b0b"
-        self.holiday_api_key = "RUGDUZpRzrzweMgB9ivBMCWtCGRpNG4F"
+        self.weather_api_key = ".................."
+        self.holiday_api_key = ".................."
         self.jaipur_locations = [
             'C-Scheme', 'Malviya Nagar', 'Vaishali Nagar', 'Mansarovar',
             'Jagatpura', 'Tonk Road', 'Ajmer Road', 'Sikar Road',
