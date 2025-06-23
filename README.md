@@ -12,5 +12,11 @@ Jaipur Smart System is an intelligent, data-driven platform designed to enhance 
 
 ![Screenshot](JPS_1_plot.png)
 
+![Screenshot](JPS_2.png)
+
+![Screenshot](JPS_2_plot.png)
+
+
+
 
 
